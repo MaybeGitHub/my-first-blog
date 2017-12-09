@@ -1,0 +1,11 @@
+﻿{% extends './test.html' %}
+{% load staticfiles%}
+
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/index.css' %}">
+{% endblock %}
+{% block content %}
+    <div>
+        Estoy dentro
+    </div>
+{% endblock %}
