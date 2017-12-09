@@ -3685,3 +3685,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extens
 2017-12-08T14:40:37: Saving group "c:\users\deadl\source\repos\djangotutorial\djangotutorial\env\lib\site-packages\pytz"
 2017-12-08T14:40:37: End of group "c:\users\deadl\source\repos\djangotutorial\djangotutorial\env\lib\site-packages\pytz"
 2017-12-08T14:40:38: Deleting 0 files
+
+2017-12-09T02:44:39: Start analysis
+2017-12-09T02:44:39: IncludeModulesFromModulePath = win32com
+2017-12-09T02:44:40: Deleting 0 files
